@@ -233,6 +233,42 @@
 "Understood" = "I understand";
 "DontShowWarning" = "Don't show this message again.";
 
+
+
+
+// 2021-02-20 NEW STRINGS
+// For the messages after Push Notification or URL Link login screens:
+
+// URL Login
+
+"LoginSuccessful" = "Login Successful";
+"GoBackToPreviousApp" = "Go back to previous app";
+
+"LoginFailed" = "Login Failed";
+
+"appNotAssociated" = "App not assosiated with current user \n Login to this device's VivoKey App.";
+"alreadyHandled" = "Already handled token\nRefresh site to get new one";
+"canceled" = "Token canceled by user";
+"challengeFailed" = "Encryption failed";
+"expired" = "Token expired\nRefresh site to get new one";
+"failedToDecodeJSON" = "Wrong data from the server";
+"incorrectUser" = "Incorrect user";
+"noAuthority" = "Couldn't reach VivoKey Servers";
+"wrongAuthType" = "Wrong Authorization Type";
+"noUser" = "Couldn't find a user for this VivoKey";
+"notRegisteredImplant" = "VivoKey not registered";
+"tokenNotFound" = "Couldn't find challenge on server";
+
+
+
+
+
+
+
+
+
+
+
    // [END: TRANSLATION INSIDE THE APP]
 
 
