@@ -5,10 +5,10 @@
  Created by Ryuuzaki on 2020/06/17.
  Copyright © 2021 VivoKey. All rights reserved.
 
- Translation Date:
- Translated Into:
- Translated By:
- Contact Info:
+ Translation Date: 20-feb-2021
+ Translated Into: pt-br (Portuguese - Brazil)
+ Translated By: Eyeux
+ Contact Info: eyeux@codeloch.com
 
  Instructions:
  The data is arranged in "Key" = "Value" form, some notes are after //... notes don't affect the value of the data.
@@ -46,192 +46,192 @@
 
 
    // MainView - Top:
-"Welcome" = "Welcome";
-"ScanYourVivoKey" = "Scan your VivoKey";
-"ConnectingToServer" = "Connecting to server...";
-"AdquiringUserInformation" = "Acquiring user information...";
-"ReaderError" = "Reader error";
-"PleaseTryAgain" = "Please try again";
+"Welcome" = "Bem-vindo";
+"ScanYourVivoKey" = "Escaneie sua VivoKey";
+"ConnectingToServer" = "Conectando ao servidor...";
+"AdquiringUserInformation" = "Recebendo informações do usuário...";
+"ReaderError" = "Erro no leitor";
+"PleaseTryAgain" = "Por favor, tente novamente";
 
    // MainView - Help:
-"WelcometoVivoKey" = "Welcome to VivoKey";
+"WelcometoVivoKey" = "Bem-vindo à VivoKey";
 
-"WelcomeToVivoKeyDescription" = "This app helps you setup your VivoKey profile. Access other platforms trough QR Code authorizations. Control the response of your implant to other devices. Manage the authorizations to other devices and services trough OAuth2.0 and create your own custom application credentials.\n\nIn order to use this app you will need to have one VivoKey cybernetic implant with you. If you still don't have your own VivoKey cybernetic implant, please visit the following link to know where you can obtain one.";
+"WelcomeToVivoKeyDescription" = "Este app ajuda você a configurar seu perfil VivoKey. Acessar outras plataformas através de QR Code. Controlar a resposta do seu implante a outros dispositivos. Gerenciar autorizações para outros dispositivos e serviços via OAuth2.0 e criar suas próprias credenciais. \n\nPara usar este app, você precisa ter um implante cibernético VivoKey. Se você ainda não tem seu próprio implante cibernético VivoKey, por favor visite o seguinte link para descobrir como obtê-lo.";
 
    // Web Profile View:
-"Web.Profile.Title" = "Web Profile";
+"Web.Profile.Title" = "Perfil Online";
 
    // ADDED: (please verify)
-"VerifyEmail" = "Verify E-Mail";
-"VerificationEmailSent" = "Verification E-Mail sent";
-"PleaseCheckYourEmail" = "Please check your E-Mail";
+"VerifyEmail" = "Verifique o E-Mail";
+"VerificationEmailSent" = "E-Mail de verificação enviado";
+"PleaseCheckYourEmail" = "Por favor verifique seu E-Mail";
 
    // User View - Dashboard
-"UserViewTitle" = "Dashboard";
-"QRCodeScanner" = "QR Code Scanner";
+"UserViewTitle" = "Painel de Controle";
+"QRCodeScanner" = "Scanner de QR Code";
 
 
-"Cancel" = "Cancel";
+"Cancel" = "Cancelar";
 
    // User View - Edit User View
-   
-"PackingData" = "Packing data..."; // This is a screen the users will see after finishing editing their profile, if (packing) doesn't sound good in your language you can use preparing, gathering. After the user edits their own data, the app will grab that information and put it on a data format that can be sent to the VivoKey server, this step is packing data....
-"UpdatingProfile" = "Updating profile...";
-"UploadingAvatar" = "Uploading avatar...";
 
-"EditProfileTitle" = "Edit Profile";
-"UpdatingVivoKeyProfile" = "Updating VivoKey Profile";
+"PackingData" = "Preparando dados..."; // This is a screen the users will see after finishing editing their profile, if (packing) doesn't sound good in your language you can use preparing, gathering. After the user edits their own data, the app will grab that information and put it on a data format that can be sent to the VivoKey server, this step is packing data....
+"UpdatingProfile" = "Atualizando o perfil...";
+"UploadingAvatar" = "Atualizando o avatar...";
 
-"Done" = "Done";
+"EditProfileTitle" = "Editar Perfil";
+"UpdatingVivoKeyProfile" = "Atualizando perfil VivoKey";
 
-"Name" = "Name";
-"EmailAddress" = "E-Mail Address";
-"SelfIntroduction" = "Self Introduction";
-"FeaturedLink" = "Featured Link";
+"Done" = "Pronto";
+
+"Name" = "Nome";
+"EmailAddress" = "Endereço de E-Mail";
+"SelfIntroduction" = "Introdução";
+"FeaturedLink" = "Link em destaque";
 "ProfileLinks" = "Links";
-"AddLink" = "Add link";
-"EditProfileURLNote" = "Note: Only valid URL/URI will be saved";
-"UserNameNoEmpty" = "Username can't be empty";
+"AddLink" = "Adicionar link";
+"EditProfileURLNote" = "Nota: Apenas URLs/URIs válidos serão salvos";
+"UserNameNoEmpty" = "Nome de usuário não pode estar vazio";
 
 
    // Advanced Tab - Change PIN Dialog:
-"CurrentPIN" = "Current PIN";
-"NewPIN" = "New PIN";
-"ConfirmNewPIN" = "Confirm new PIN";
-"Step" = "Step"; // This shows as Step 1, Step 2, Step 3 depending on what step the user is in.
-"RegisteringNewPIN" = "Registering new PIN...";
-"DoesntmatchNewPIN" = "Doesn't match new PIN";
-"CouldntReachTheServer" = "Couldn't reach the server";
-"WrongCurrentPIN" = "Wrong current PIN";
-"PINChange" = "PIN Change";
-"ChangeSuccessful" = "Change Successful";
-"EnterValidEmailAddress" = "Enter a valid E-Mail address";
+"CurrentPIN" = "PIN atual";
+"NewPIN" = "PIN novo";
+"ConfirmNewPIN" = "Confirme o novo PIN";
+"Step" = "Etapa"; // This shows as Step 1, Step 2, Step 3 depending on what step the user is in.
+"RegisteringNewPIN" = "Registrando PIN novo...";
+"DoesntmatchNewPIN" = "Não é igual ao novo PIN";
+"CouldntReachTheServer" = "Não foi possível acessar o servidor";
+"WrongCurrentPIN" = "PIN atual incorreto";
+"PINChange" = "Mudança de PIN";
+"ChangeSuccessful" = "Mudança bem-sucedida";
+"EnterValidEmailAddress" = "Digite um endereço de E-Mail válido";
 
-"Close" = "Close"; // Close alert
+"Close" = "Fechar"; // Close alert
 
 
    // Reader
-"HoldYouriPhoneNearYourVivoKey" = "Hold your iPhone near your VivoKey"; // The NFC promt that Apple presents already has an animation that shows the top of the phone being put close to a signal. All phones are the same so we don't need more detailed information in this popup every single time.
+"HoldYouriPhoneNearYourVivoKey" = "Segure seu iPhone próximo à sua VivoKey"; // The NFC promt that Apple presents already has an animation that shows the top of the phone being put close to a signal. All phones are the same so we don't need more detailed information in this popup every single time.
 
    // PIN View:
-"ThisVivoKeyIsInUse" = "This VivoKey is in use!";
-"EnterYourPin" = "Enter your profile PIN";
-"LoginIn" = "Acquiring user information..."; // Basically - (downloading user data...), Acquiring might sound wrong on some languajes.
+"ThisVivoKeyIsInUse" = "Esta VivoKey está em uso!";
+"EnterYourPin" = "Digite o PIN do seu perfil";
+"LoginIn" = "Recebendo informações do usuário ..."; // Basically - (downloading user data...), Acquiring might sound wrong on some languajes.
 
    // New VivoKey Profile
-"NewProfileTitle" = "New VivoKey Profile";
-"NewProfileDescription" = "Create a new VivoKey profile and link your new VIVOKEY!"; // The exact letters "VIVOKEY" will be replaced for the implant type (Spark 1, Spark 2, etc) so please use VIVOKEY inside the translation to address the Implant Type.
-"NewProfileName" = "Name";
-"NewProfileEmail" = "E-Mail address";
-"NewProfileNextStep" = "Next step";
-"NewProfileNameCantBeEmtpy" = "Name can't be empty.";
-"NewProfileEnterValidEmail" = "Enter valid E-Mail";
-"NewProfileBeforeProceed" = "Before you proceed!";
-"NewProfileBefore1" = "Your VivoKey VIVOKEY can only be linked to one VivoKey Profile."; // The exact letters "VIVOKEY" will be replaced for the implant type (Spark 1, Spark 2, etc) so please use VIVOKEY inside the translation to address the Implant Type.
-"NewProfileBefore2" = "See help for more details.";
+"NewProfileTitle" = "Novo perfil VivoKey";
+"NewProfileDescription" = "Crie um novo perfil VivoKey e vincule seu novo VIVOKEY!"; // The exact letters "VIVOKEY" will be replaced for the implant type (Spark 1, Spark 2, etc) so please use VIVOKEY inside the translation to address the Implant Type.
+"NewProfileName" = "Nome";
+"NewProfileEmail" = "Endereço de E-Mail";
+"NewProfileNextStep" = "Próxima etapa";
+"NewProfileNameCantBeEmtpy" = "Nome não pode estar vazio.";
+"NewProfileEnterValidEmail" = "Digite um E-Mail válido";
+"NewProfileBeforeProceed" = "Antes de prosseguir!";
+"NewProfileBefore1" = "Sua VivoKey VIVOKEY só pode ser vinculada a um Perfil VivoKey."; // The exact letters "VIVOKEY" will be replaced for the implant type (Spark 1, Spark 2, etc) so please use VIVOKEY inside the translation to address the Implant Type.
+"NewProfileBefore2" = "Veja a ajuda para mais detalhes.";
 
    // New Profile Help View:
-"NewProfileHelpVivoKeyProfile" = "VivoKey Profile";
-"NewProfileHelpDescription" = "Cryptobionically secured profile";
-"NewProfileHelpPoint1" = "You can edit your name and E-Mail without changing your VivoKey Profile.";
-"NewProfileHelpPoint2" = "If you already have a VivoKey Profile, you can add a new implant to your profile.";
-"NewProfileHelpPoint3" = "Your VivoKey VIVOKEY can only be linked to one VivoKey Profile."; // The exact letters "VIVOKEY" will be replaced for the implant type (Spark 1, Spark 2, etc) so please use VIVOKEY inside the translation to address the Implant Type.
+"NewProfileHelpVivoKeyProfile" = "Perfil VivoKey";
+"NewProfileHelpDescription" = "Perfil criptobiônicamente protegido";
+"NewProfileHelpPoint1" = "Você pode editar seu nome e E-Mail sem alterar seu Perfil VivoKey.";
+"NewProfileHelpPoint2" = "Se você já tem um Perfil VivoKey, pode adicionar um novo implante ao seu perfil.";
+"NewProfileHelpPoint3" = "Sua VivoKey VIVOKEY só pode ser vinculada a um Perfil VivoKey."; // The exact letters "VIVOKEY" will be replaced for the implant type (Spark 1, Spark 2, etc) so please use VIVOKEY inside the translation to address the Implant Type.
 
    // New User - New Pin View:
-"CreateNewPIN" = "Create new PIN";
-"EnterPIN" = "Enter PIN";
-"ConfirmPIN" = "Confirm PIN";
-"KeepItSafe" = "Keep it safe!";
-"PINNoReset" = "PIN can not be reset";
+"CreateNewPIN" = "Criar novo PIN";
+"EnterPIN" = "Digite o PIN";
+"ConfirmPIN" = "Confirme o PIN";
+"KeepItSafe" = "Mantenha-o seguro!";
+"PINNoReset" = "PIN não pode ser resetado";
 
    // New User - New Pin Help View:
 "PIN" = "PIN";
-"PersonalIdentificationNumber" = "Personal Identification Number";
-"NewPinHelpOne" = "Your profile PIN protects access to your VivoKey profile on new devices.";
-"NewPinHelpTwo" = "You will need to input your PIN only one time everytime you login a different device.";
-"NewPinHelpTree" = "Remember: There is no way to reset or recover your PIN if you forget it.";
-"NewPinHelpFour" = "You can change your PIN in the Advanced tab, but you will still need your current PIN.";
-"NewPinHelpFive" = "Select a secure PIN you can always remember.";
+"PersonalIdentificationNumber" = "Número de identificação pessoal";
+"NewPinHelpOne" = "O PIN do seu perfil protege o acesso ao seu perfil VivoKey em novos dispositivos.";
+"NewPinHelpTwo" = "Você precisa inserir seu PIN apenas uma vez sempre que fizer login em um dispositivo diferente.";
+"NewPinHelpTree" = "Lembre-se: não há como resetar ou recuperar seu PIN caso você o esqueça.";
+"NewPinHelpFour" = "Você pode alterar seu PIN no menu Avançado, mas para isso precisará do PIN atual.";
+"NewPinHelpFive" = "Selecione um PIN seguro do qual sempre possa se lembrar.";
 
    // Creating new user view:
    // There is a lag after the user already created a user, this is an animated window that shows where the app is working on.
-"CreatingNewProfile" = "Creating new VivoKey Profile";
-"CreatingStepData1" = "Creating profile...";
-"CreatingStepData2" = "Uploading avatar...";
-"CreatingStepData3" = "Registering this device...";
-"CreatingStepData4" = "Login in..."; 
+"CreatingNewProfile" = "Criando um novo Perfil VivoKey ";
+"CreatingStepData1" = "Criando o perfil...";
+"CreatingStepData2" = "Postando o avatar...";
+"CreatingStepData3" = "Registrando este dispositivo...";
+"CreatingStepData4" = "Conectando...";
 
    // VivoKeys View:
 "VivoKeysTitle" = "VivoKeys";
-"MyVivoKeys" = "My VivoKeys";
-"VivoKeySettings" = "VivoKey Settings";
-"VivoKeyName" = "VivoKey Name";
+"MyVivoKeys" = "Minhas VivoKeys";
+"VivoKeySettings" = "Configurações da VivoKey";
+"VivoKeyName" = "Nome da VivoKey";
 
-"ActionPrivate" = "Private";
-"ActionProfile" = "Profile";
+"ActionPrivate" = "Pessoal";
+"ActionProfile" = "Perfil";
 "ActionURL" = "URL";
 
-"PrivateInfo" = "Show private page when scanning this VivoKey";
-"ProfileInfo" = "Show your VivoKey Profile when scanning VivoKey";
-"URLInfo" = "Show custom URL when scanning VivoKey";
+"PrivateInfo" = "Mostrar página pessoal ao escanear esta VivoKey";
+"ProfileInfo" = "Mostrar seu perfil VivoKey ao escanear esta VivoKey";
+"URLInfo" = "Mostrar URL personalizado ao escanear esta VivoKey";
 
    // VivoKeys Info PopUp:
-"Type" = "Type"; // This refers to the chip type, next to it will show Spark 1 or Spark 2 or Demo Card depending on the registered VivoKey chip.
-"ChipUID" = "Chip UID";
-"ImplantID" = "Implant ID";
-"CopyTitle" = "Copy successful";
-"CopyDescription1" = "Chip ID Copied to Clipboard";
-"CopyDescription2" = "Implant ID Copied to Clipboard";
+"Type" = "Tipo"; // This refers to the chip type, next to it will show Spark 1 or Spark 2 or Demo Card depending on the registered VivoKey chip.
+"ChipUID" = "UID do chip";
+"ImplantID" = "ID do implante";
+"CopyTitle" = "Cópia bem-sucedida";
+"CopyDescription1" = "ID do chip copiada para a área de transferência";
+"CopyDescription2" = "ID do implante copiada para a área de transferência";
 "CopyOK" = "OK";
 
    // From Weblink:
    // When opening the App from a web browser or clicking on a push notification, it will show a window with a custom login.
    // This login atempts have a time limit. This message appears next to a little Analog Clcok Icon to hint the user that their atempt might expire if they take too long.
-"TimeSensitiveLogin" = "Time sensitive login";
+"TimeSensitiveLogin" = "Login sensível ao tempo";
 
    // Advanced View:
-"AdvancedTitle" = "Advanced";
-"ProfileCreatedOn"= "Profile craeted on: ";
-"RegisteredDevices" = "Registered Devices";
-"DeviceAddedDate" = "Added";
-"DeviceLastAccess" = "Last Access";
-"Authorizations" = "Authorizations";
-"CustomApplications" = "Custom Applications"; // Custom Application is the AppID and Secret for a valid service credential. Users can make their own Custom Applications to setup their own services.
+"AdvancedTitle" = "Avançado";
+"ProfileCreatedOn"= "Perfil criado em: ";
+"RegisteredDevices" = "Dispositivos Registrados";
+"DeviceAddedDate" = "Adicionado";
+"DeviceLastAccess" = "Último acesso";
+"Authorizations" = "Autorizações";
+"CustomApplications" = "Aplicativos personalizados"; // Custom Application is the AppID and Secret for a valid service credential. Users can make their own Custom Applications to setup their own services.
 
-"Refresh" = "Refresh";
-"ChangePIN" = "Change PIN";
+"Refresh" = "Atualizar";
+"ChangePIN" = "Alterar o PIN";
 
    // Advanced View - Edit App:
-"EditEditApp" = "Edit App";
-"EditAppName" = "App Name";
-"EditAppDescription" = "App Description";
-"EditChallengeMessage" = "Challenge Message"; // This message refers to the POPUP that the users will see when they are prompted to login, the creator of this Custom Application can decide what to show users when they see this popup.
-"EditRedirectURL" = "Redirect URL";
-"EditID" = "App ID";
-"EditCopy" = "Copy";
-"EditSecret" = "Secret Key";
-"EditDelete" = "Delete";
-"EditUpdate" = "Update";
-"EditAlertTitle" = "Are you sure you want to delete this app?"; // This refers to your Custom App and it will completely destroy the Custom App credentials.
-"EditNoUndo" = "There is no undo";
+"EditEditApp" = "Editar Aplicativo";
+"EditAppName" = "Nome do Aplicativo";
+"EditAppDescription" = "Descrição do Aplicativo";
+"EditChallengeMessage" = "Mensagem de autenticação"; // This message refers to the POPUP that the users will see when they are prompted to login, the creator of this Custom Application can decide what to show users when they see this popup.
+"EditRedirectURL" = "URL para redirecionar";
+"EditID" = "ID do Aplicativo";
+"EditCopy" = "Copiar";
+"EditSecret" = "Chave do segredo";
+"EditDelete" = "Deletar";
+"EditUpdate" = "Atualizar";
+"EditAlertTitle" = "Tem certeza de que deseja deletar este Aplicativo?"; // This refers to your Custom App and it will completely destroy the Custom App credentials.
+"EditNoUndo" = "Não há como voltar atrás";
 
    // Advanced - New App
-"NewAppTitle" = "New App";
-"NewAppName" = "App name";
-"NewAppDescription" = "App description";
-"NewAppChallenge" = "Challenge Message";
-"NewAppChallengeDescription" = "Message to display to users when prompted to scan their VivoKey";
-"NewAppRedirect" = "Redirect URL";
-"NewAppRedirectDescription" = "The login will be redirect here";
-"NewAppCreate" = "Create App";
-"NewAppCreating" = "Creating New App";
+"NewAppTitle" = "Novo Aplicativo";
+"NewAppName" = "Nome do Aplicativo";
+"NewAppDescription" = "Descrição do Aplicativo";
+"NewAppChallenge" = "Mensagem de autenticação";
+"NewAppChallengeDescription" = "Mensagem para exibir aos usuários quando solicitados a escanear a VivoKey";
+"NewAppRedirect" = "URL para redirecionar";
+"NewAppRedirectDescription" = "O login irá redirecionar aqui";
+"NewAppCreate" = "Criar Aplicativo";
+"NewAppCreating" = "Criando Novo Aplicativo";
 
    // Advanced View - Warning
-"Warning" = "WARNING!";
-"Warning1" = "Changes on this page are irreversible";
-"Warning2" = "Please be aware that we cannot undo any changes made on this page.";
-"Understood" = "I understand";
-"DontShowWarning" = "Don't show this message again.";
+"Warning" = "ALERTA!";
+"Warning1" = "Alterações nesta página são irreversíveis";
+"Warning2" = "Esteja ciente de que não podemos desfazer as alterações feitas nesta página.";
+"Understood" = "Eu compreendo";
+"DontShowWarning" = "Não mostrar esta mensagem novamente.";
 
 
 
@@ -241,23 +241,23 @@
 
 // URL Login
 
-"LoginSuccessful" = "Login Successful";
-"GoBackToPreviousApp" = "Go back to previous app";
+"LoginSuccessful" = "Login bem sucedido";
+"GoBackToPreviousApp" = "Voltar ao aplicativo anterior";
 
-"LoginFailed" = "Login Failed";
+"LoginFailed" = "Falha no login";
 
-"appNotAssociated" = "App not assosiated with current user \n Login to this device's VivoKey App.";
-"alreadyHandled" = "Already handled token\nRefresh site to get new one";
-"canceled" = "Token canceled by user";
-"challengeFailed" = "Encryption failed";
-"expired" = "Token expired\nRefresh site to get new one";
-"failedToDecodeJSON" = "Wrong data from the server";
-"incorrectUser" = "Incorrect user";
-"noAuthority" = "Couldn't reach VivoKey Servers";
-"wrongAuthType" = "Wrong Authorization Type";
-"noUser" = "Couldn't find a user for this VivoKey";
-"notRegisteredImplant" = "VivoKey not registered";
-"tokenNotFound" = "Couldn't find challenge on server";
+"appNotAssociated" = "Aplicativo não associado ao usuário atual \n Faça seu login no aplicativo VivoKey deste dispositivo.";
+"alreadyHandled" = "Token já utilizado\nAtualize o site para obter um novo";
+"canceled" = "Token cancelado pelo usuário";
+"challengeFailed" = "A encriptação falhou";
+"expired" = "Token expirado\nAtualize o site para obter um novo";
+"failedToDecodeJSON" = "Dados incorretos recebidos do servidor";
+"incorrectUser" = "Usuário incorreto";
+"noAuthority" = "Não foi possível acessar os servidores da VivoKey";
+"wrongAuthType" = "Tipo incorreto de autorização";
+"noUser" = "Não foi possível encontrar um usuário para esta VivoKey";
+"notRegisteredImplant" = "VivoKey não registrada";
+"tokenNotFound" = "Não foi possível encontrar o token no servidor";
 
 
 
@@ -270,5 +270,3 @@
 
 
    // [END: TRANSLATION INSIDE THE APP]
-
-
