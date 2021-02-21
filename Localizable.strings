@@ -47,7 +47,7 @@
 
    // MainView - Top:
 "Welcome" = "Bem-vindo";
-"ScanYourVivoKey" = "Escaneie sua VivoKey";
+"ScanYourVivoKey" = "Escaneie seu VivoKey";
 "ConnectingToServer" = "Conectando ao servidor...";
 "AdquiringUserInformation" = "Recebendo informações do usuário...";
 "ReaderError" = "Erro no leitor";
@@ -62,12 +62,12 @@
 "Web.Profile.Title" = "Perfil Online";
 
    // ADDED: (please verify)
-"VerifyEmail" = "Verifique o E-Mail";
+"VerifyEmail" = "Verificar E-Mail";
 "VerificationEmailSent" = "E-Mail de verificação enviado";
 "PleaseCheckYourEmail" = "Por favor verifique seu E-Mail";
 
    // User View - Dashboard
-"UserViewTitle" = "Painel de Controle";
+"UserViewTitle" = "Painel";
 "QRCodeScanner" = "Scanner de QR Code";
 
 
@@ -111,10 +111,10 @@
 
 
    // Reader
-"HoldYouriPhoneNearYourVivoKey" = "Segure seu iPhone próximo à sua VivoKey"; // The NFC promt that Apple presents already has an animation that shows the top of the phone being put close to a signal. All phones are the same so we don't need more detailed information in this popup every single time.
+"HoldYouriPhoneNearYourVivoKey" = "Segure seu iPhone próximo ao seu VivoKey"; // The NFC promt that Apple presents already has an animation that shows the top of the phone being put close to a signal. All phones are the same so we don't need more detailed information in this popup every single time.
 
    // PIN View:
-"ThisVivoKeyIsInUse" = "Esta VivoKey está em uso!";
+"ThisVivoKeyIsInUse" = "Este VivoKey está em uso!";
 "EnterYourPin" = "Digite o PIN do seu perfil";
 "LoginIn" = "Recebendo informações do usuário ..."; // Basically - (downloading user data...), Acquiring might sound wrong on some languajes.
 
@@ -127,7 +127,7 @@
 "NewProfileNameCantBeEmtpy" = "Nome não pode estar vazio.";
 "NewProfileEnterValidEmail" = "Digite um E-Mail válido";
 "NewProfileBeforeProceed" = "Antes de prosseguir!";
-"NewProfileBefore1" = "Sua VivoKey VIVOKEY só pode ser vinculada a um Perfil VivoKey."; // The exact letters "VIVOKEY" will be replaced for the implant type (Spark 1, Spark 2, etc) so please use VIVOKEY inside the translation to address the Implant Type.
+"NewProfileBefore1" = "Seu VivoKey VIVOKEY só pode ser vinculado a um Perfil VivoKey."; // The exact letters "VIVOKEY" will be replaced for the implant type (Spark 1, Spark 2, etc) so please use VIVOKEY inside the translation to address the Implant Type.
 "NewProfileBefore2" = "Veja a ajuda para mais detalhes.";
 
    // New Profile Help View:
@@ -135,7 +135,7 @@
 "NewProfileHelpDescription" = "Perfil criptobiônicamente protegido";
 "NewProfileHelpPoint1" = "Você pode editar seu nome e E-Mail sem alterar seu Perfil VivoKey.";
 "NewProfileHelpPoint2" = "Se você já tem um Perfil VivoKey, pode adicionar um novo implante ao seu perfil.";
-"NewProfileHelpPoint3" = "Sua VivoKey VIVOKEY só pode ser vinculada a um Perfil VivoKey."; // The exact letters "VIVOKEY" will be replaced for the implant type (Spark 1, Spark 2, etc) so please use VIVOKEY inside the translation to address the Implant Type.
+"NewProfileHelpPoint3" = "Seu VivoKey VIVOKEY só pode ser vinculado a um Perfil VivoKey."; // The exact letters "VIVOKEY" will be replaced for the implant type (Spark 1, Spark 2, etc) so please use VIVOKEY inside the translation to address the Implant Type.
 
    // New User - New Pin View:
 "CreateNewPIN" = "Criar novo PIN";
@@ -163,17 +163,17 @@
 
    // VivoKeys View:
 "VivoKeysTitle" = "VivoKeys";
-"MyVivoKeys" = "Minhas VivoKeys";
-"VivoKeySettings" = "Configurações da VivoKey";
-"VivoKeyName" = "Nome da VivoKey";
+"MyVivoKeys" = "Meus VivoKeys";
+"VivoKeySettings" = "Configurações do VivoKey";
+"VivoKeyName" = "Nome do VivoKey";
 
 "ActionPrivate" = "Pessoal";
 "ActionProfile" = "Perfil";
 "ActionURL" = "URL";
 
-"PrivateInfo" = "Mostrar página pessoal ao escanear esta VivoKey";
-"ProfileInfo" = "Mostrar seu perfil VivoKey ao escanear esta VivoKey";
-"URLInfo" = "Mostrar URL personalizado ao escanear esta VivoKey";
+"PrivateInfo" = "Mostrar página pessoal ao escanear este VivoKey";
+"ProfileInfo" = "Mostrar seu perfil VivoKey ao escanear este VivoKey";
+"URLInfo" = "Mostrar URL personalizado ao escanear este VivoKey";
 
    // VivoKeys Info PopUp:
 "Type" = "Tipo"; // This refers to the chip type, next to it will show Spark 1 or Spark 2 or Demo Card depending on the registered VivoKey chip.
@@ -191,10 +191,10 @@
 
    // Advanced View:
 "AdvancedTitle" = "Avançado";
-"ProfileCreatedOn"= "Perfil criado em: ";
+"ProfileCreatedOn"= "Perfil Criado em: ";
 "RegisteredDevices" = "Dispositivos Registrados";
 "DeviceAddedDate" = "Adicionado";
-"DeviceLastAccess" = "Último acesso";
+"DeviceLastAccess" = "Último Acesso";
 "Authorizations" = "Autorizações";
 "CustomApplications" = "Aplicativos personalizados"; // Custom Application is the AppID and Secret for a valid service credential. Users can make their own Custom Applications to setup their own services.
 
@@ -205,7 +205,7 @@
 "EditEditApp" = "Editar Aplicativo";
 "EditAppName" = "Nome do Aplicativo";
 "EditAppDescription" = "Descrição do Aplicativo";
-"EditChallengeMessage" = "Mensagem de autenticação"; // This message refers to the POPUP that the users will see when they are prompted to login, the creator of this Custom Application can decide what to show users when they see this popup.
+"EditChallengeMessage" = "Pedido de autenticação"; // This message refers to the POPUP that the users will see when they are prompted to login, the creator of this Custom Application can decide what to show users when they see this popup.
 "EditRedirectURL" = "URL para redirecionar";
 "EditID" = "ID do Aplicativo";
 "EditCopy" = "Copiar";
@@ -219,7 +219,7 @@
 "NewAppTitle" = "Novo Aplicativo";
 "NewAppName" = "Nome do Aplicativo";
 "NewAppDescription" = "Descrição do Aplicativo";
-"NewAppChallenge" = "Mensagem de autenticação";
+"NewAppChallenge" = "Pedido de autenticação";
 "NewAppChallengeDescription" = "Mensagem para exibir aos usuários quando solicitados a escanear a VivoKey";
 "NewAppRedirect" = "URL para redirecionar";
 "NewAppRedirectDescription" = "O login irá redirecionar aqui";
@@ -246,17 +246,17 @@
 
 "LoginFailed" = "Falha no login";
 
-"appNotAssociated" = "Aplicativo não associado ao usuário atual \n Faça seu login no aplicativo VivoKey deste dispositivo.";
+"appNotAssociated" = "Aplicativo não associado ao usuário atual\nFaça seu login no aplicativo VivoKey deste dispositivo.";
 "alreadyHandled" = "Token já utilizado\nAtualize o site para obter um novo";
 "canceled" = "Token cancelado pelo usuário";
 "challengeFailed" = "A encriptação falhou";
 "expired" = "Token expirado\nAtualize o site para obter um novo";
 "failedToDecodeJSON" = "Dados incorretos recebidos do servidor";
 "incorrectUser" = "Usuário incorreto";
-"noAuthority" = "Não foi possível acessar os servidores da VivoKey";
+"noAuthority" = "Não foi possível acessar os servidores VivoKey";
 "wrongAuthType" = "Tipo incorreto de autorização";
-"noUser" = "Não foi possível encontrar um usuário para esta VivoKey";
-"notRegisteredImplant" = "VivoKey não registrada";
+"noUser" = "Não foi possível encontrar um usuário para este VivoKey";
+"notRegisteredImplant" = "VivoKey não registrado";
 "tokenNotFound" = "Não foi possível encontrar o token no servidor";
 
 
